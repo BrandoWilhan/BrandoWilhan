@@ -1,5 +1,5 @@
 - Hey, Mugen, @BrandoWilhan here
-- Interested in robotics, coding and hardware, 
+- Interested in robotics, coding and hardware, clean code and clean architecture enthusiast
 - So much curiosity about science and astronomy, sometimes do skateboarding :telescope:
 - Currently learning Design Patterns =]
 - I have a stack in Django, Docker, FastApi, Postgresql, a bit of Shellscript, and some experience with deploy of projects 
