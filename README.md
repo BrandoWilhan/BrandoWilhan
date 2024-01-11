@@ -4,7 +4,7 @@
 - Currently learning Design Patterns =]
 - I have a stack in Django, Docker, FastApi, Postgresql, a bit of Shellscript, and some experience with deploy of projects 
 - Looking to collaborate on any project who have C++ or Python
-- Find me at brandowilhan@gmail.com or @mugen_n
+- Find me at brandowilhan@gmail.com or @mugen_n_
 
 <!---
 BrandoWilhan/BrandoWilhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
